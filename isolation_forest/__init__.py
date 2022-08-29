@@ -1,0 +1,2 @@
+# import Isolation_Forest.isolation_forest
+from Isolation_Forest import isolation_forest
